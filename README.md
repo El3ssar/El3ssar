@@ -18,8 +18,6 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=El3ssar&layout=compact&theme=tokyonight)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight)
-
 ---
 
 ### 📈 **My Activity**
