@@ -43,5 +43,11 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 
 ### 🔗 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-estévez-moya-83b426139)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kemossabee@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/daniel-estévez-moya-83b426139">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kemossabee@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
+  </a>
+</p>
