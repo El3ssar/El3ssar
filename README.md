@@ -30,7 +30,9 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ssar&layout=compact&theme=tokyonight" height="180px"/>
 
 </div>
+
 ---
+
 ### 🚀 **Current Interests**
 
 - Machine Learning, Deep Learning, Chaos Theory
