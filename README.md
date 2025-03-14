@@ -10,11 +10,15 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+![Python](https://skillicons.dev/icons?i=py,julia,linux,keras,git&perline=5)
+
 ---
 
 ### 📊 **My GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=El3ssar&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=El3ssar&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=El3ssar&theme=github-compact)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=El3ssar&layout=compact&theme=tokyonight)
 
