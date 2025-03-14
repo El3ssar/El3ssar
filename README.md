@@ -10,26 +10,26 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
----
-
-### 📈 **My Activity**
-
-![Contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El3ssar&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,julia,linux,keras,git" />
+</p>
 
 ---
 
+### 📈 **My Activity & Stats**
 
-### 📊 **My GitHub Stats**
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=El3ssar&theme=github-compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El3ssar&theme=tokyonight" width="80%"/>
+</p>
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=El3ssar&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" height="180px"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ssar&layout=compact&theme=tokyonight" height="180px"/>
-
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=El3ssar&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
