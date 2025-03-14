@@ -10,7 +10,7 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-![Python](https://skillicons.dev/icons?i=py,julia,linux,keras,git&perline=5)
+![Python](https://skillicons.dev/icons?i=py,julia,linux,tensorflow,git&perline=5)
 
 ---
 
