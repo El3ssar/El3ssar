@@ -12,6 +12,13 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 
 ---
 
+### 📈 **My Activity**
+
+![Contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El3ssar&theme=tokyonight)
+
+---
+
+
 ### 📊 **My GitHub Stats**
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=El3ssar&theme=github-compact)
@@ -24,13 +31,6 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 
 </div>
 ---
-
-### 📈 **My Activity**
-
-![Contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El3ssar&theme=tokyonight)
-
----
-
 ### 🚀 **Current Interests**
 
 - Machine Learning, Deep Learning, Chaos Theory
