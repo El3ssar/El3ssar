@@ -18,7 +18,7 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
 
 ### 📈 **My Activity & Stats**
 
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El3ssar&theme=tokyonight" width="80%"/>
 </p>
 
@@ -27,7 +27,7 @@ I'm a scientist and developer passionate about Python, Julia, Linux, machine lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ssar&layout=compact&theme=tokyonight" height="180px"/>
 </div>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=El3ssar&theme=tokyonight" height="180px"/>
 </p>
 
