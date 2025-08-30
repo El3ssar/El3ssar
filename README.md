@@ -31,9 +31,6 @@ Currently researching Reservoir Computing and Complex Dynamical Systems using de
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ssar&layout=compact&theme=tokyonight" height="180px" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=El3ssar&theme=dracula&hide_total_contributions=true" alt="GitHub Streak"/>
   </a>
