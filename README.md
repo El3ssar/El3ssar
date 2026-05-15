@@ -1,9 +1,18 @@
 # Hi, I'm Daniel 👋
 
-I'm a mathematician and physicist finishing my PhD at the Max Planck Institute for the Physics of Complex Systems in Dresden.  
-I specialize in machine learning, time series analysis, and dynamical systems, with a strong background in Python, TensorFlow/Keras, and scientific computing.
+PhD candidate at the **Max Planck Institute for the Physics of Complex Systems** (Dresden), working in the Nonlinear Dynamics and Time Series Analysis group.
 
-Currently researching Reservoir Computing and Complex Dynamical Systems using deep learning techniques.
+My research focuses on reservoir computing, specifically Echo State Networks, applied to the forecasting of chaotic dynamical systems.
+
+🌐 [estevez-moya.com](https://estevez-moya.com)
+
+---
+
+### 🔬 Research & Projects
+
+- **PhD thesis** — *On the Principled Design of Echo State Networks for Chaotic Forecasting* — transient analysis, sagitta-based discretization, and the Expected Forecast Horizon (EFH), unified into a hyperparameter optimization pipeline for ESN benchmarking
+- **[ResDAG](https://github.com/El3ssar/ResDAG)** — PyTorch library for reservoir computing with arbitrary DAG architectures, with TPE/Optuna hyperparameter optimization across multiple chaotic systems · [PyPI](https://pypi.org/project/resdag/)
+- **[TSDynamics](https://github.com/El3ssar/TSDynamics)** — Python library for JIT-compiled integration of ODEs and DDEs with Lyapunov spectrum support · [PyPI](https://pypi.org/project/tsdynamics/)
 
 ---
 
@@ -11,14 +20,15 @@ Currently researching Reservoir Computing and Complex Dynamical Systems using de
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-006400?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-2C6BED?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Optuna-2B2D42?style=flat-square&logoColor=white" alt="Optuna"/>
 </p>
 
 ---
@@ -28,7 +38,6 @@ Currently researching Reservoir Computing and Complex Dynamical Systems using de
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El3ssar&theme=tokyonight" width="80%" alt="GitHub Profile Summary"/>
 </p>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=El3ssar&theme=tokyonight&hide_total_contributions=true" alt="GitHub Streak"/>
@@ -38,17 +47,12 @@ Currently researching Reservoir Computing and Complex Dynamical Systems using de
 
 ---
 
-### 🚀 Interests
-
-- Machine Learning, Deep Learning, Chaos Theory  
-- Open-source collaboration  
-- Clean, robust, efficient coding practices  
-
----
-
 ### 📬 Contact
 
 <p>
+  <a href="https://estevez-moya.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://linkedin.com/in/daniel-estévez-moya-83b426139">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
