@@ -10,7 +10,7 @@ My research focuses on reservoir computing, specifically Echo State Networks, ap
 
 ### 🔬 Research & Projects
 
-- **PhD thesis** — *On the Principled Design of Echo State Networks for Chaotic Forecasting* — transient analysis, sagitta-based discretization, and the Expected Forecast Horizon (EFH), unified into a hyperparameter optimization pipeline for ESN benchmarking
+- **PhD thesis** — *[On the Principled Design of Echo State Networks for Chaotic Forecasting](https://github.com/El3ssar/El3ssar/blob/main/On%20the%20Principled%20Design%20of%20Echo%20State%20Networks%20for%20Chaotic%20Forecasting.pdf)* — transient analysis, sagitta-based discretization, and the Expected Forecast Horizon (EFH), unified into a hyperparameter optimization pipeline for ESN benchmarking
 - **[ResDAG](https://github.com/El3ssar/ResDAG)** — PyTorch library for reservoir computing with arbitrary DAG architectures, with TPE/Optuna hyperparameter optimization across multiple chaotic systems · [PyPI](https://pypi.org/project/resdag/)
 - **[TSDynamics](https://github.com/El3ssar/TSDynamics)** — Python library for JIT-compiled integration of ODEs and DDEs with Lyapunov spectrum support · [PyPI](https://pypi.org/project/tsdynamics/)
 
