@@ -42,7 +42,6 @@ My research focuses on reservoir computing, specifically Echo State Networks, ap
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=El3ssar&theme=tokyonight&hide_total_contributions=true" alt="GitHub Streak"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ssar&layout=compact&theme=tokyonight" height="180px" alt="Top Languages"/>
 </p>
 
 ---
